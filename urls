@@ -1,0 +1,37 @@
+https://blogs.msdn.microsoft.com/premier_developer/2018/04/20/running-docker-windows-and-linux-containers-simultaneously/
+
+
+https://stefanscherer.github.io/run-linux-and-windows-containers-on-windows-10/
+
+https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10
+
+
+http://collabnix.com/how-to-switch-docker-18-09-community-edition-to-the-enterprise-without-any-downtime/
+
+
+
+https://docs.docker.com/develop/develop-images/baseimages/
+
+
+
+https://www.mirantis.com/blog/how-do-i-create-a-new-docker-image-for-my-application/
+
+
+https://github.com/docker/for-win/issues/204
+
+https://stackoverflow.com/questions/26423515/how-to-automatically-update-your-docker-containers-if-base-images-are-updated
+
+https://stackoverflow.com/questions/41322541/rebuild-docker-container-on-file-changes
+
+
+
+https://www.google.com/search?ei=D2lIXLjhDsngvAS_64zACg&q=when+docker+takes+the+latest+chages+whether+it+is+in+images+or+containers&oq=when+docker+takes+the+latest+chages+whether+it+is+in+images+or+containers&gs_l=psy-ab.3...9594.29426..30487...3.0..0.263.6205.0j37j4......0....1..gws-wiz.......0i71j33i10j33i21j33i10i21j33i10i160.URbMiF5tAJE
+
+https://github.com/v2tec/watchtower  (auto updation of containers when you changed)
+
+https://stackoverflow.com/questions/26734402/how-to-upgrade-docker-container-after-its-image-changed
+
+
+https://stackoverflow.com/questions/26423515/how-to-automatically-update-your-docker-containers-if-base-images-are-updated?rq=1   (update the docker containers when image got updated)
+
+https://stackoverflow.com/questions/18285212/how-to-scale-docker-containers-in-production?rq=1
